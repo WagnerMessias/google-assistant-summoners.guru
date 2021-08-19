@@ -1,0 +1,1155 @@
+{
+  "id": "5d23e54c-7d50-4df9-add7-1ee57975d82d",
+  "name": "champion",
+  "isOverridable": true,
+  "entries": [
+            {
+                "synonyms": [
+                    "Aatrox",
+                    "Aatrox",
+                    "the Darkin Blade"
+                ],
+                "value": "266"
+            },
+            {
+                "value": "103",
+                "synonyms": [
+                    "Ahri",
+                    "Ahri",
+                    "the Nine-Tailed Fox"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Akali",
+                    "Akali",
+                    "the Rogue Assassin"
+                ],
+                "value": "84"
+            },
+            {
+                "value": "12",
+                "synonyms": [
+                    "Alistar",
+                    "Alistar",
+                    "the Minotaur"
+                ]
+            },
+            {
+                "value": "32",
+                "synonyms": [
+                    "Amumu",
+                    "Amumu",
+                    "the Sad Mummy"
+                ]
+            },
+            {
+                "value": "34",
+                "synonyms": [
+                    "Anivia",
+                    "Anivia",
+                    "the Cryophoenix"
+                ]
+            },
+            {
+                "value": "1",
+                "synonyms": [
+                    "Annie",
+                    "Annie",
+                    "the Dark Child"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Ashe",
+                    "Ashe",
+                    "the Frost Archer"
+                ],
+                "value": "22"
+            },
+            {
+                "value": "136",
+                "synonyms": [
+                    "Aurelion Sol",
+                    "AurelionSol",
+                    "The Star Forger"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Azir",
+                    "Azir",
+                    "the Emperor of the Sands"
+                ],
+                "value": "268"
+            },
+            {
+                "value": "432",
+                "synonyms": [
+                    "Bard",
+                    "Bard",
+                    "the Wandering Caretaker"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Blitzcrank",
+                    "Blitzcrank",
+                    "blitz",
+                    "the Great Steam Golem"
+                ],
+                "value": "53"
+            },
+            {
+                "synonyms": [
+                    "Brand",
+                    "Brand",
+                    "the Burning Vengeance"
+                ],
+                "value": "63"
+            },
+            {
+                "value": "201",
+                "synonyms": [
+                    "Braum",
+                    "Braum",
+                    "the Heart of the Freljord"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Caitlyn",
+                    "Caitlyn",
+                    "the Sheriff of Piltover"
+                ],
+                "value": "51"
+            },
+            {
+                "synonyms": [
+                    "Camille",
+                    "Camille",
+                    "the Steel Shadow"
+                ],
+                "value": "164"
+            },
+            {
+                "value": "69",
+                "synonyms": [
+                    "Cassiopeia",
+                    "Cassiopeia",
+                    "the Serpent's Embrace"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Cho'Gath",
+                    "Chogath",
+                    "the Terror of the Void"
+                ],
+                "value": "31"
+            },
+            {
+                "value": "42",
+                "synonyms": [
+                    "Corki",
+                    "Corki",
+                    "the Daring Bombardier"
+                ]
+            },
+            {
+                "value": "122",
+                "synonyms": [
+                    "Darius",
+                    "Darius",
+                    "the Hand of Noxus"
+                ]
+            },
+            {
+                "value": "131",
+                "synonyms": [
+                    "Diana",
+                    "Diana",
+                    "Scorn of the Moon"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Draven",
+                    "Draven",
+                    "the Glorious Executioner"
+                ],
+                "value": "119"
+            },
+            {
+                "synonyms": [
+                    "Dr. Mundo",
+                    "DrMundo",
+                    "the Madman of Zaun"
+                ],
+                "value": "36"
+            },
+            {
+                "value": "245",
+                "synonyms": [
+                    "Ekko",
+                    "Ekko",
+                    "the Boy Who Shattered Time"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Elise",
+                    "Elise",
+                    "the Spider Queen"
+                ],
+                "value": "60"
+            },
+            {
+                "value": "28",
+                "synonyms": [
+                    "Evelynn",
+                    "Evelynn",
+                    "Agony's Embrace"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Ezreal",
+                    "Ezreal",
+                    "the Prodigal Explorer"
+                ],
+                "value": "81"
+            },
+            {
+                "synonyms": [
+                    "Fiddlesticks",
+                    "Fiddlesticks",
+                    "the Harbinger of Doom"
+                ],
+                "value": "9"
+            },
+            {
+                "synonyms": [
+                    "Fiora",
+                    "Fiora",
+                    "the Grand Duelist"
+                ],
+                "value": "114"
+            },
+            {
+                "synonyms": [
+                    "Fizz",
+                    "Fizz",
+                    "the Tidal Trickster"
+                ],
+                "value": "105"
+            },
+            {
+                "synonyms": [
+                    "Galio",
+                    "Galio",
+                    "the Colossus"
+                ],
+                "value": "3"
+            },
+            {
+                "synonyms": [
+                    "Gangplank",
+                    "Gangplank",
+                    "the Saltwater Scourge"
+                ],
+                "value": "41"
+            },
+            {
+                "synonyms": [
+                    "Garen",
+                    "Garen",
+                    "The Might of Demacia"
+                ],
+                "value": "86"
+            },
+            {
+                "synonyms": [
+                    "Gnar",
+                    "Gnar",
+                    "the Missing Link"
+                ],
+                "value": "150"
+            },
+            {
+                "synonyms": [
+                    "Gragas",
+                    "Gragas",
+                    "the Rabble Rouser"
+                ],
+                "value": "79"
+            },
+            {
+                "value": "104",
+                "synonyms": [
+                    "Graves",
+                    "Graves",
+                    "the Outlaw"
+                ]
+            },
+            {
+                "value": "120",
+                "synonyms": [
+                    "Hecarim",
+                    "Hecarim",
+                    "the Shadow of War"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Heimerdinger",
+                    "Heimerdinger",
+                    "the Revered Inventor"
+                ],
+                "value": "74"
+            },
+            {
+                "value": "420",
+                "synonyms": [
+                    "Illaoi",
+                    "Illaoi",
+                    "the Kraken Priestess"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Irelia",
+                    "Irelia",
+                    "the Blade Dancer"
+                ],
+                "value": "39"
+            },
+            {
+                "synonyms": [
+                    "Ivern",
+                    "Ivern",
+                    "the Green Father"
+                ],
+                "value": "427"
+            },
+            {
+                "synonyms": [
+                    "Janna",
+                    "Janna",
+                    "the Storm's Fury"
+                ],
+                "value": "40"
+            },
+            {
+                "value": "59",
+                "synonyms": [
+                    "Jarvan IV",
+                    "JarvanIV",
+                    "the Exemplar of Demacia"
+                ]
+            },
+            {
+                "value": "24",
+                "synonyms": [
+                    "Jax",
+                    "Jax",
+                    "Grandmaster at Arms"
+                ]
+            },
+            {
+                "value": "126",
+                "synonyms": [
+                    "Jayce",
+                    "Jayce",
+                    "the Defender of Tomorrow"
+                ]
+            },
+            {
+                "value": "202",
+                "synonyms": [
+                    "Jhin",
+                    "Jhin",
+                    "the Virtuoso"
+                ]
+            },
+            {
+                "value": "222",
+                "synonyms": [
+                    "Jinx",
+                    "Jinx",
+                    "the Loose Cannon"
+                ]
+            },
+            {
+                "value": "145",
+                "synonyms": [
+                    "Kai'Sa",
+                    "Kaisa",
+                    "Daughter of the Void"
+                ]
+            },
+            {
+                "value": "429",
+                "synonyms": [
+                    "Kalista",
+                    "Kalista",
+                    "the Spear of Vengeance"
+                ]
+            },
+            {
+                "value": "43",
+                "synonyms": [
+                    "Karma",
+                    "Karma",
+                    "the Enlightened One"
+                ]
+            },
+            {
+                "value": "30",
+                "synonyms": [
+                    "Karthus",
+                    "Karthus",
+                    "the Deathsinger"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Kassadin",
+                    "Kassadin",
+                    "the Void Walker"
+                ],
+                "value": "38"
+            },
+            {
+                "synonyms": [
+                    "Katarina",
+                    "Katarina",
+                    "the Sinister Blade"
+                ],
+                "value": "55"
+            },
+            {
+                "value": "10",
+                "synonyms": [
+                    "Kayle",
+                    "Kayle",
+                    "The Judicator"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Kayn",
+                    "Kayn",
+                    "the Shadow Reaper"
+                ],
+                "value": "141"
+            },
+            {
+                "synonyms": [
+                    "Kennen",
+                    "Kennen",
+                    "the Heart of the Tempest"
+                ],
+                "value": "85"
+            },
+            {
+                "value": "121",
+                "synonyms": [
+                    "Kha'Zix",
+                    "Khazix",
+                    "the Voidreaver"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Kindred",
+                    "Kindred",
+                    "The Eternal Hunters"
+                ],
+                "value": "203"
+            },
+            {
+                "value": "240",
+                "synonyms": [
+                    "Kled",
+                    "Kled",
+                    "the Cantankerous Cavalier"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Kog'Maw",
+                    "KogMaw",
+                    "the Mouth of the Abyss"
+                ],
+                "value": "96"
+            },
+            {
+                "synonyms": [
+                    "LeBlanc",
+                    "Leblanc",
+                    "the Deceiver"
+                ],
+                "value": "7"
+            },
+            {
+                "value": "64",
+                "synonyms": [
+                    "Lee Sin",
+                    "LeeSin",
+                    "the Blind Monk"
+                ]
+            },
+            {
+                "value": "89",
+                "synonyms": [
+                    "Leona",
+                    "Leona",
+                    "the Radiant Dawn"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Lissandra",
+                    "Lissandra",
+                    "the Ice Witch"
+                ],
+                "value": "127"
+            },
+            {
+                "synonyms": [
+                    "Lucian",
+                    "Lucian",
+                    "the Purifier"
+                ],
+                "value": "236"
+            },
+            {
+                "synonyms": [
+                    "Lulu",
+                    "Lulu",
+                    "the Fae Sorceress"
+                ],
+                "value": "117"
+            },
+            {
+                "value": "99",
+                "synonyms": [
+                    "Lux",
+                    "Lux",
+                    "the Lady of Luminosity"
+                ]
+            },
+            {
+                "value": "54",
+                "synonyms": [
+                    "Malphite",
+                    "Malphite",
+                    "Shard of the Monolith"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Malzahar",
+                    "Malzahar",
+                    "the Prophet of the Void"
+                ],
+                "value": "90"
+            },
+            {
+                "value": "57",
+                "synonyms": [
+                    "Maokai",
+                    "Maokai",
+                    "the Twisted Treant"
+                ]
+            },
+            {
+                "value": "11",
+                "synonyms": [
+                    "Master Yi",
+                    "MasterYi",
+                    "the Wuju Bladesman"
+                ]
+            },
+            {
+                "value": "21",
+                "synonyms": [
+                    "Miss Fortune",
+                    "MissFortune",
+                    "the Bounty Hunter"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Wukong",
+                    "MonkeyKing",
+                    "the Monkey King"
+                ],
+                "value": "62"
+            },
+            {
+                "value": "82",
+                "synonyms": [
+                    "Mordekaiser",
+                    "Mordekaiser",
+                    "the Iron Revenant"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Morgana",
+                    "Morgana",
+                    "Fallen Angel"
+                ],
+                "value": "25"
+            },
+            {
+                "value": "267",
+                "synonyms": [
+                    "Nami",
+                    "Nami",
+                    "the Tidecaller"
+                ]
+            },
+            {
+                "value": "75",
+                "synonyms": [
+                    "Nasus",
+                    "Nasus",
+                    "the Curator of the Sands"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Nautilus",
+                    "Nautilus",
+                    "the Titan of the Depths"
+                ],
+                "value": "111"
+            },
+            {
+                "synonyms": [
+                    "Neeko",
+                    "Neeko",
+                    "the Curious Chameleon"
+                ],
+                "value": "518"
+            },
+            {
+                "synonyms": [
+                    "Nidalee",
+                    "Nidalee",
+                    "the Bestial Huntress"
+                ],
+                "value": "76"
+            },
+            {
+                "value": "56",
+                "synonyms": [
+                    "Nocturne",
+                    "Nocturne",
+                    "the Eternal Nightmare"
+                ]
+            },
+            {
+                "value": "20",
+                "synonyms": [
+                    "Nunu & Willump",
+                    "Nunu",
+                    "the Boy and His Yeti"
+                ]
+            },
+            {
+                "value": "2",
+                "synonyms": [
+                    "Olaf",
+                    "Olaf",
+                    "the Berserker"
+                ]
+            },
+            {
+                "value": "61",
+                "synonyms": [
+                    "Orianna",
+                    "Orianna",
+                    "the Lady of Clockwork"
+                ]
+            },
+            {
+                "value": "516",
+                "synonyms": [
+                    "Ornn",
+                    "Ornn",
+                    "The Fire below the Mountain"
+                ]
+            },
+            {
+                "value": "80",
+                "synonyms": [
+                    "Pantheon",
+                    "Pantheon",
+                    "the Artisan of War"
+                ]
+            },
+            {
+                "value": "78",
+                "synonyms": [
+                    "Poppy",
+                    "Poppy",
+                    "Keeper of the Hammer"
+                ]
+            },
+            {
+                "value": "555",
+                "synonyms": [
+                    "Pyke",
+                    "Pyke",
+                    "the Bloodharbor Ripper"
+                ]
+            },
+            {
+                "value": "133",
+                "synonyms": [
+                    "Quinn",
+                    "Quinn",
+                    "Demacia's Wings"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Rakan",
+                    "Rakan",
+                    "The Charmer"
+                ],
+                "value": "497"
+            },
+            {
+                "synonyms": [
+                    "Rammus",
+                    "Rammus",
+                    "the Armordillo"
+                ],
+                "value": "33"
+            },
+            {
+                "value": "421",
+                "synonyms": [
+                    "Rek'Sai",
+                    "RekSai",
+                    "the Void Burrower"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Renekton",
+                    "Renekton",
+                    "the Butcher of the Sands"
+                ],
+                "value": "58"
+            },
+            {
+                "value": "107",
+                "synonyms": [
+                    "Rengar",
+                    "Rengar",
+                    "the Pridestalker"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Riven",
+                    "Riven",
+                    "the Exile"
+                ],
+                "value": "92"
+            },
+            {
+                "synonyms": [
+                    "Rumble",
+                    "Rumble",
+                    "the Mechanized Menace"
+                ],
+                "value": "68"
+            },
+            {
+                "value": "13",
+                "synonyms": [
+                    "Ryze",
+                    "Ryze",
+                    "the Rune Mage"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Sejuani",
+                    "Sejuani",
+                    "Fury of the North"
+                ],
+                "value": "113"
+            },
+            {
+                "value": "35",
+                "synonyms": [
+                    "Shaco",
+                    "Shaco",
+                    "the Demon Jester"
+                ]
+            },
+            {
+                "value": "98",
+                "synonyms": [
+                    "Shen",
+                    "Shen",
+                    "the Eye of Twilight"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Shyvana",
+                    "Shyvana",
+                    "the Half-Dragon"
+                ],
+                "value": "102"
+            },
+            {
+                "value": "27",
+                "synonyms": [
+                    "Singed",
+                    "Singed",
+                    "the Mad Chemist"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Sion",
+                    "Sion",
+                    "The Undead Juggernaut"
+                ],
+                "value": "14"
+            },
+            {
+                "value": "15",
+                "synonyms": [
+                    "Sivir",
+                    "Sivir",
+                    "the Battle Mistress"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Skarner",
+                    "Skarner",
+                    "the Crystal Vanguard"
+                ],
+                "value": "72"
+            },
+            {
+                "synonyms": [
+                    "Sona",
+                    "Sona",
+                    "Maven of the Strings"
+                ],
+                "value": "37"
+            },
+            {
+                "synonyms": [
+                    "Soraka",
+                    "Soraka",
+                    "the Starchild"
+                ],
+                "value": "16"
+            },
+            {
+                "value": "50",
+                "synonyms": [
+                    "Swain",
+                    "Swain",
+                    "the Noxian Grand General"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Sylas",
+                    "Sylas",
+                    "Silas",
+                    "the Unshackled"
+                ],
+                "value": "517"
+            },
+            {
+                "value": "134",
+                "synonyms": [
+                    "Syndra",
+                    "Syndra",
+                    "the Dark Sovereign"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Tahm Kench",
+                    "TahmKench",
+                    "the River King"
+                ],
+                "value": "223"
+            },
+            {
+                "synonyms": [
+                    "Taliyah",
+                    "Taliyah",
+                    "the Stoneweaver"
+                ],
+                "value": "163"
+            },
+            {
+                "synonyms": [
+                    "Talon",
+                    "Talon",
+                    "the Blade's Shadow"
+                ],
+                "value": "91"
+            },
+            {
+                "value": "44",
+                "synonyms": [
+                    "Taric",
+                    "Taric",
+                    "the Shield of Valoran"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Teemo",
+                    "Teemo",
+                    "the Swift Scout"
+                ],
+                "value": "17"
+            },
+            {
+                "value": "412",
+                "synonyms": [
+                    "Thresh",
+                    "Thresh",
+                    "the Chain Warden"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Tristana",
+                    "Tristana",
+                    "the Yordle Gunner"
+                ],
+                "value": "18"
+            },
+            {
+                "value": "48",
+                "synonyms": [
+                    "Trundle",
+                    "Trundle",
+                    "the Troll King"
+                ]
+            },
+            {
+                "value": "23",
+                "synonyms": [
+                    "Tryndamere",
+                    "Tryndamere",
+                    "the Barbarian King"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Twisted Fate",
+                    "TwistedFate",
+                    "the Card Master"
+                ],
+                "value": "4"
+            },
+            {
+                "value": "29",
+                "synonyms": [
+                    "Twitch",
+                    "Twitch",
+                    "the Plague Rat"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Udyr",
+                    "Udyr",
+                    "the Spirit Walker"
+                ],
+                "value": "77"
+            },
+            {
+                "value": "6",
+                "synonyms": [
+                    "Urgot",
+                    "Urgot",
+                    "the Dreadnought"
+                ]
+            },
+            {
+                "value": "110",
+                "synonyms": [
+                    "Varus",
+                    "Varus",
+                    "the Arrow of Retribution"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Vayne",
+                    "Vayne",
+                    "the Night Hunter"
+                ],
+                "value": "67"
+            },
+            {
+                "value": "45",
+                "synonyms": [
+                    "Veigar",
+                    "Veigar",
+                    "the Tiny Master of Evil"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Vel'Koz",
+                    "Velkoz",
+                    "the Eye of the Void"
+                ],
+                "value": "161"
+            },
+            {
+                "synonyms": [
+                    "Vi",
+                    "Vi",
+                    "the Piltover Enforcer"
+                ],
+                "value": "254"
+            },
+            {
+                "value": "112",
+                "synonyms": [
+                    "Viktor",
+                    "Viktor",
+                    "the Machine Herald"
+                ]
+            },
+            {
+                "value": "8",
+                "synonyms": [
+                    "Vladimir",
+                    "Vladimir",
+                    "the Crimson Reaper"
+                ]
+            },
+            {
+                "value": "106",
+                "synonyms": [
+                    "Volibear",
+                    "Volibear",
+                    "the Thunder's Roar"
+                ]
+            },
+            {
+                "value": "19",
+                "synonyms": [
+                    "Warwick",
+                    "Warwick",
+                    "the Uncaged Wrath of Zaun"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Xayah",
+                    "Xayah",
+                    "the Rebel"
+                ],
+                "value": "498"
+            },
+            {
+                "synonyms": [
+                    "Xerath",
+                    "Xerath",
+                    "the Magus Ascendant"
+                ],
+                "value": "101"
+            },
+            {
+                "synonyms": [
+                    "Xin Zhao",
+                    "XinZhao",
+                    "the Seneschal of Demacia"
+                ],
+                "value": "5"
+            },
+            {
+                "value": "157",
+                "synonyms": [
+                    "Yasuo",
+                    "Yasuo",
+                    "the Unforgiven"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Yorick",
+                    "Yorick",
+                    "Shepherd of Souls"
+                ],
+                "value": "83"
+            },
+            {
+                "synonyms": [
+                    "Zac",
+                    "Zac",
+                    "the Secret Weapon"
+                ],
+                "value": "154"
+            },
+            {
+                "synonyms": [
+                    "Zed",
+                    "Zed",
+                    "the Master of Shadows"
+                ],
+                "value": "238"
+            },
+            {
+                "synonyms": [
+                    "Ziggs",
+                    "Ziggs",
+                    "the Hexplosives Expert"
+                ],
+                "value": "115"
+            },
+            {
+                "synonyms": [
+                    "Zilean",
+                    "Zilean",
+                    "the Chronokeeper"
+                ],
+                "value": "26"
+            },
+            {
+                "synonyms": [
+                    "Zoe",
+                    "Zoe",
+                    "the Aspect of Twilight"
+                ],
+                "value": "142"
+            },
+            {
+                "value": "143",
+                "synonyms": [
+                    "Zyra",
+                    "Zyra",
+                    "Rise of the Thorns"
+                ]
+            }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

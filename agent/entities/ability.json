@@ -1,0 +1,4298 @@
+{
+  "name": "ability",
+  "isOverridable": true,
+  "entries":[
+            {
+                "value": "AnnieP",
+                "synonyms": [
+                    "Pyromania"
+                ]
+            },
+            {
+                "value": "AnnieQ",
+                "synonyms": [
+                    "Disintegrate"
+                ]
+            },
+            {
+                "value": "AnnieW",
+                "synonyms": [
+                    "Incinerate"
+                ]
+            },
+            {
+                "value": "AnnieE",
+                "synonyms": [
+                    "Molten Shield"
+                ]
+            },
+            {
+                "value": "AnnieR",
+                "synonyms": [
+                    "Summon: Tibbers"
+                ]
+            },
+            {
+                "value": "KayleP",
+                "synonyms": [
+                    "Holy Fervor"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Reckoning"
+                ],
+                "value": "KayleQ"
+            },
+            {
+                "value": "KayleW",
+                "synonyms": [
+                    "Divine Blessing"
+                ]
+            },
+            {
+                "value": "KayleE",
+                "synonyms": [
+                    "Righteous Fury"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Intervention"
+                ],
+                "value": "KayleR"
+            },
+            {
+                "value": "XerathP",
+                "synonyms": [
+                    "Mana Surge"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Arcanopulse"
+                ],
+                "value": "XerathQ"
+            },
+            {
+                "value": "XerathW",
+                "synonyms": [
+                    "Eye of Destruction"
+                ]
+            },
+            {
+                "value": "XerathE",
+                "synonyms": [
+                    "Shocking Orb"
+                ]
+            },
+            {
+                "value": "XerathR",
+                "synonyms": [
+                    "Rite of the Arcane"
+                ]
+            },
+            {
+                "value": "ShyvanaP",
+                "synonyms": [
+                    "Fury of the Dragonborn"
+                ]
+            },
+            {
+                "value": "ShyvanaQ",
+                "synonyms": [
+                    "Twin Bite"
+                ]
+            },
+            {
+                "value": "ShyvanaW",
+                "synonyms": [
+                    "Burnout"
+                ]
+            },
+            {
+                "value": "ShyvanaE",
+                "synonyms": [
+                    "Flame Breath"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Dragon's Descent"
+                ],
+                "value": "ShyvanaR"
+            },
+            {
+                "value": "AhriP",
+                "synonyms": [
+                    "Vastayan Grace"
+                ]
+            },
+            {
+                "value": "AhriQ",
+                "synonyms": [
+                    "Orb of Deception"
+                ]
+            },
+            {
+                "value": "AhriW",
+                "synonyms": [
+                    "Fox-Fire"
+                ]
+            },
+            {
+                "value": "AhriE",
+                "synonyms": [
+                    "Charm"
+                ]
+            },
+            {
+                "value": "AhriR",
+                "synonyms": [
+                    "Spirit Rush"
+                ]
+            },
+            {
+                "value": "GravesP",
+                "synonyms": [
+                    "New Destiny"
+                ]
+            },
+            {
+                "value": "GravesQ",
+                "synonyms": [
+                    "End of the Line"
+                ]
+            },
+            {
+                "value": "GravesW",
+                "synonyms": [
+                    "Smoke Screen"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Quickdraw"
+                ],
+                "value": "GravesE"
+            },
+            {
+                "synonyms": [
+                    "Collateral Damage"
+                ],
+                "value": "GravesR"
+            },
+            {
+                "synonyms": [
+                    "Nimble Fighter"
+                ],
+                "value": "FizzP"
+            },
+            {
+                "synonyms": [
+                    "Urchin Strike"
+                ],
+                "value": "FizzQ"
+            },
+            {
+                "value": "FizzW",
+                "synonyms": [
+                    "Seastone Trident"
+                ]
+            },
+            {
+                "value": "FizzE",
+                "synonyms": [
+                    "Playful / Trickster"
+                ]
+            },
+            {
+                "value": "FizzR",
+                "synonyms": [
+                    "Chum the Waters"
+                ]
+            },
+            {
+                "value": "VolibearP",
+                "synonyms": [
+                    "Chosen of the Storm"
+                ]
+            },
+            {
+                "value": "VolibearQ",
+                "synonyms": [
+                    "Rolling Thunder"
+                ]
+            },
+            {
+                "value": "VolibearW",
+                "synonyms": [
+                    "Frenzy"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Majestic Roar"
+                ],
+                "value": "VolibearE"
+            },
+            {
+                "value": "VolibearR",
+                "synonyms": [
+                    "Thunder Claws"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Unseen Predator"
+                ],
+                "value": "RengarP"
+            },
+            {
+                "value": "RengarQ",
+                "synonyms": [
+                    "Savagery"
+                ]
+            },
+            {
+                "value": "RengarW",
+                "synonyms": [
+                    "Battle Roar"
+                ]
+            },
+            {
+                "value": "RengarE",
+                "synonyms": [
+                    "Bola Strike"
+                ]
+            },
+            {
+                "value": "RengarR",
+                "synonyms": [
+                    "Thrill of the Hunt"
+                ]
+            },
+            {
+                "value": "MasterYiP",
+                "synonyms": [
+                    "Double Strike"
+                ]
+            },
+            {
+                "value": "MasterYiQ",
+                "synonyms": [
+                    "Alpha Strike"
+                ]
+            },
+            {
+                "value": "MasterYiW",
+                "synonyms": [
+                    "Meditate"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Wuju Style"
+                ],
+                "value": "MasterYiE"
+            },
+            {
+                "value": "MasterYiR",
+                "synonyms": [
+                    "Highlander"
+                ]
+            },
+            {
+                "value": "VarusP",
+                "synonyms": [
+                    "Living Vengeance"
+                ]
+            },
+            {
+                "value": "VarusQ",
+                "synonyms": [
+                    "Piercing Arrow"
+                ]
+            },
+            {
+                "value": "VarusW",
+                "synonyms": [
+                    "Blighted Quiver"
+                ]
+            },
+            {
+                "value": "VarusE",
+                "synonyms": [
+                    "Hail of Arrows"
+                ]
+            },
+            {
+                "value": "VarusR",
+                "synonyms": [
+                    "Chain of Corruption"
+                ]
+            },
+            {
+                "value": "NautilusP",
+                "synonyms": [
+                    "Staggering Blow"
+                ]
+            },
+            {
+                "value": "NautilusQ",
+                "synonyms": [
+                    "Dredge Line"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Titan's Wrath"
+                ],
+                "value": "NautilusW"
+            },
+            {
+                "synonyms": [
+                    "Riptide"
+                ],
+                "value": "NautilusE"
+            },
+            {
+                "value": "NautilusR",
+                "synonyms": [
+                    "Depth Charge"
+                ]
+            },
+            {
+                "value": "ViktorP",
+                "synonyms": [
+                    "Glorious Evolution"
+                ]
+            },
+            {
+                "value": "ViktorQ",
+                "synonyms": [
+                    "Siphon Power"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Gravity Field"
+                ],
+                "value": "ViktorW"
+            },
+            {
+                "synonyms": [
+                    "Death Ray"
+                ],
+                "value": "ViktorE"
+            },
+            {
+                "value": "ViktorR",
+                "synonyms": [
+                    "Chaos Storm"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Fury of the North"
+                ],
+                "value": "SejuaniP"
+            },
+            {
+                "synonyms": [
+                    "Arctic Assault"
+                ],
+                "value": "SejuaniQ"
+            },
+            {
+                "value": "SejuaniW",
+                "synonyms": [
+                    "Winter's Wrath"
+                ]
+            },
+            {
+                "value": "SejuaniE",
+                "synonyms": [
+                    "Permafrost"
+                ]
+            },
+            {
+                "value": "SejuaniR",
+                "synonyms": [
+                    "Glacial Prison"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Duelist's Dance"
+                ],
+                "value": "FioraP"
+            },
+            {
+                "synonyms": [
+                    "Lunge"
+                ],
+                "value": "FioraQ"
+            },
+            {
+                "synonyms": [
+                    "Riposte"
+                ],
+                "value": "FioraW"
+            },
+            {
+                "value": "FioraE",
+                "synonyms": [
+                    "Bladework"
+                ]
+            },
+            {
+                "value": "FioraR",
+                "synonyms": [
+                    "Grand Challenge"
+                ]
+            },
+            {
+                "value": "ZiggsP",
+                "synonyms": [
+                    "Short Fuse"
+                ]
+            },
+            {
+                "value": "ZiggsQ",
+                "synonyms": [
+                    "Bouncing Bomb"
+                ]
+            },
+            {
+                "value": "ZiggsW",
+                "synonyms": [
+                    "Satchel Charge"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Hexplosive Minefield"
+                ],
+                "value": "ZiggsE"
+            },
+            {
+                "synonyms": [
+                    "Mega Inferno Bomb"
+                ],
+                "value": "ZiggsR"
+            },
+            {
+                "value": "LuluP",
+                "synonyms": [
+                    "Pix, Faerie Companion"
+                ]
+            },
+            {
+                "value": "LuluQ",
+                "synonyms": [
+                    "Glitterlance"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Whimsy"
+                ],
+                "value": "LuluW"
+            },
+            {
+                "value": "LuluE",
+                "synonyms": [
+                    "Help, Pix!"
+                ]
+            },
+            {
+                "value": "LuluR",
+                "synonyms": [
+                    "Wild Growth"
+                ]
+            },
+            {
+                "value": "DravenP",
+                "synonyms": [
+                    ""
+                ]
+            },
+            {
+                "synonyms": [
+                    "Spinning Axe"
+                ],
+                "value": "DravenQ"
+            },
+            {
+                "value": "DravenW",
+                "synonyms": [
+                    "Blood Rush"
+                ]
+            },
+            {
+                "value": "DravenE",
+                "synonyms": [
+                    "Stand Aside"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Whirling Death"
+                ],
+                "value": "DravenR"
+            },
+            {
+                "value": "AlistarP",
+                "synonyms": [
+                    "Triumphant Roar"
+                ]
+            },
+            {
+                "value": "AlistarQ",
+                "synonyms": [
+                    "Pulverize"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Headbutt"
+                ],
+                "value": "AlistarW"
+            },
+            {
+                "value": "AlistarE",
+                "synonyms": [
+                    "Trample"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Unbreakable Will"
+                ],
+                "value": "AlistarR"
+            },
+            {
+                "value": "HecarimP",
+                "synonyms": [
+                    "Warpath"
+                ]
+            },
+            {
+                "value": "HecarimQ",
+                "synonyms": [
+                    "Rampage"
+                ]
+            },
+            {
+                "value": "HecarimW",
+                "synonyms": [
+                    "Spirit of Dread"
+                ]
+            },
+            {
+                "value": "HecarimE",
+                "synonyms": [
+                    "Devastating Charge"
+                ]
+            },
+            {
+                "value": "HecarimR",
+                "synonyms": [
+                    "Onslaught of Shadows"
+                ]
+            },
+            {
+                "value": "KhazixP",
+                "synonyms": [
+                    "Unseen Threat"
+                ]
+            },
+            {
+                "value": "KhazixQ",
+                "synonyms": [
+                    "Taste Their Fear"
+                ]
+            },
+            {
+                "value": "KhazixW",
+                "synonyms": [
+                    "Void Spike"
+                ]
+            },
+            {
+                "value": "KhazixE",
+                "synonyms": [
+                    "Leap"
+                ]
+            },
+            {
+                "value": "KhazixR",
+                "synonyms": [
+                    "Void Assault"
+                ]
+            },
+            {
+                "value": "DariusP",
+                "synonyms": [
+                    "Hemorrhage"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Decimate"
+                ],
+                "value": "DariusQ"
+            },
+            {
+                "synonyms": [
+                    "Crippling Strike"
+                ],
+                "value": "DariusW"
+            },
+            {
+                "value": "DariusE",
+                "synonyms": [
+                    "Apprehend"
+                ]
+            },
+            {
+                "value": "DariusR",
+                "synonyms": [
+                    "Noxian Guillotine"
+                ]
+            },
+            {
+                "value": "JayceP",
+                "synonyms": [
+                    "Hextech Capacitor"
+                ]
+            },
+            {
+                "value": "JayceQ",
+                "synonyms": [
+                    "To the Skies! / Shock Blast"
+                ]
+            },
+            {
+                "value": "JayceW",
+                "synonyms": [
+                    "Lightning Field / Hyper Charge"
+                ]
+            },
+            {
+                "value": "JayceE",
+                "synonyms": [
+                    "Thundering Blow / Acceleration Gate"
+                ]
+            },
+            {
+                "value": "JayceR",
+                "synonyms": [
+                    "Mercury Cannon / Mercury Hammer"
+                ]
+            },
+            {
+                "value": "LissandraP",
+                "synonyms": [
+                    "Iceborn Subjugation"
+                ]
+            },
+            {
+                "value": "LissandraQ",
+                "synonyms": [
+                    "Ice Shard"
+                ]
+            },
+            {
+                "value": "LissandraW",
+                "synonyms": [
+                    "Ring of Frost"
+                ]
+            },
+            {
+                "value": "LissandraE",
+                "synonyms": [
+                    "Glacial Path"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Frozen Tomb"
+                ],
+                "value": "LissandraR"
+            },
+            {
+                "synonyms": [
+                    "Arcane Mastery"
+                ],
+                "value": "RyzeP"
+            },
+            {
+                "value": "RyzeQ",
+                "synonyms": [
+                    "Overload"
+                ]
+            },
+            {
+                "value": "RyzeW",
+                "synonyms": [
+                    "Rune Prison"
+                ]
+            },
+            {
+                "value": "RyzeE",
+                "synonyms": [
+                    "Spell Flux"
+                ]
+            },
+            {
+                "value": "RyzeR",
+                "synonyms": [
+                    "Realm Warp"
+                ]
+            },
+            {
+                "value": "DianaP",
+                "synonyms": [
+                    "Moonsilver Blade"
+                ]
+            },
+            {
+                "value": "DianaQ",
+                "synonyms": [
+                    "Crescent Strike"
+                ]
+            },
+            {
+                "value": "DianaW",
+                "synonyms": [
+                    "Pale Cascade"
+                ]
+            },
+            {
+                "value": "DianaE",
+                "synonyms": [
+                    "Moonfall"
+                ]
+            },
+            {
+                "value": "DianaR",
+                "synonyms": [
+                    "Lunar Rush"
+                ]
+            },
+            {
+                "value": "QuinnP",
+                "synonyms": [
+                    "Harrier"
+                ]
+            },
+            {
+                "value": "QuinnQ",
+                "synonyms": [
+                    "Blinding Assault"
+                ]
+            },
+            {
+                "value": "QuinnW",
+                "synonyms": [
+                    "Heightened Senses"
+                ]
+            },
+            {
+                "value": "QuinnE",
+                "synonyms": [
+                    "Vault"
+                ]
+            },
+            {
+                "value": "QuinnR",
+                "synonyms": [
+                    "Behind Enemy Lines"
+                ]
+            },
+            {
+                "value": "SyndraP",
+                "synonyms": [
+                    "Transcendent"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Dark Sphere"
+                ],
+                "value": "SyndraQ"
+            },
+            {
+                "value": "SyndraW",
+                "synonyms": [
+                    "Force of Will"
+                ]
+            },
+            {
+                "value": "SyndraE",
+                "synonyms": [
+                    "Scatter the Weak"
+                ]
+            },
+            {
+                "value": "SyndraR",
+                "synonyms": [
+                    "Unleashed Power"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Center of the Universe"
+                ],
+                "value": "AurelionSolP"
+            },
+            {
+                "synonyms": [
+                    "Starsurge"
+                ],
+                "value": "AurelionSolQ"
+            },
+            {
+                "value": "AurelionSolW",
+                "synonyms": [
+                    "Celestial Expansion"
+                ]
+            },
+            {
+                "value": "AurelionSolE",
+                "synonyms": [
+                    "Comet of Legend"
+                ]
+            },
+            {
+                "value": "AurelionSolR",
+                "synonyms": [
+                    "Voice of Light"
+                ]
+            },
+            {
+                "value": "SionP",
+                "synonyms": [
+                    "Glory in Death"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Decimating Smash"
+                ],
+                "value": "SionQ"
+            },
+            {
+                "value": "SionW",
+                "synonyms": [
+                    "Soul Furnace"
+                ]
+            },
+            {
+                "value": "SionE",
+                "synonyms": [
+                    "Roar of the Slayer"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Unstoppable Onslaught"
+                ],
+                "value": "SionR"
+            },
+            {
+                "value": "KaynP",
+                "synonyms": [
+                    "The Darkin Scythe"
+                ]
+            },
+            {
+                "value": "KaynQ",
+                "synonyms": [
+                    "Reaping Slash"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Blade's Reach"
+                ],
+                "value": "KaynW"
+            },
+            {
+                "value": "KaynE",
+                "synonyms": [
+                    "Shadow Step"
+                ]
+            },
+            {
+                "value": "KaynR",
+                "synonyms": [
+                    "Umbral Trespass"
+                ]
+            },
+            {
+                "synonyms": [
+                    "More Sparkles!"
+                ],
+                "value": "ZoeP"
+            },
+            {
+                "value": "ZoeQ",
+                "synonyms": [
+                    "Paddle Star!"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Spell Thief"
+                ],
+                "value": "ZoeW"
+            },
+            {
+                "value": "ZoeE",
+                "synonyms": [
+                    "Sleepy Trouble Bubble"
+                ]
+            },
+            {
+                "value": "ZoeR",
+                "synonyms": [
+                    "Portal Jump"
+                ]
+            },
+            {
+                "value": "ZyraP",
+                "synonyms": [
+                    "Garden of Thorns"
+                ]
+            },
+            {
+                "value": "ZyraQ",
+                "synonyms": [
+                    "Deadly Spines"
+                ]
+            },
+            {
+                "value": "ZyraW",
+                "synonyms": [
+                    "Rampant Growth"
+                ]
+            },
+            {
+                "value": "ZyraE",
+                "synonyms": [
+                    "Grasping Roots"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Stranglethorns"
+                ],
+                "value": "ZyraR"
+            },
+            {
+                "value": "KaisaP",
+                "synonyms": [
+                    "Second Skin"
+                ]
+            },
+            {
+                "value": "KaisaQ",
+                "synonyms": [
+                    "Icathian Rain"
+                ]
+            },
+            {
+                "value": "KaisaW",
+                "synonyms": [
+                    "Void Seeker"
+                ]
+            },
+            {
+                "value": "KaisaE",
+                "synonyms": [
+                    "Supercharge"
+                ]
+            },
+            {
+                "value": "KaisaR",
+                "synonyms": [
+                    "Killer Instinct"
+                ]
+            },
+            {
+                "value": "SivirP",
+                "synonyms": [
+                    "Fleet of Foot"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Boomerang Blade"
+                ],
+                "value": "SivirQ"
+            },
+            {
+                "value": "SivirW",
+                "synonyms": [
+                    "Ricochet"
+                ]
+            },
+            {
+                "value": "SivirE",
+                "synonyms": [
+                    "Spell Shield"
+                ]
+            },
+            {
+                "value": "SivirR",
+                "synonyms": [
+                    "On The Hunt"
+                ]
+            },
+            {
+                "value": "GnarP",
+                "synonyms": [
+                    "Rage Gene"
+                ]
+            },
+            {
+                "value": "GnarQ",
+                "synonyms": [
+                    "Boomerang Throw / Boulder Toss"
+                ]
+            },
+            {
+                "value": "GnarW",
+                "synonyms": [
+                    "Hyper / Wallop"
+                ]
+            },
+            {
+                "value": "GnarE",
+                "synonyms": [
+                    "Hop / Crunch"
+                ]
+            },
+            {
+                "value": "GnarR",
+                "synonyms": [
+                    "GNAR!"
+                ]
+            },
+            {
+                "value": "ZacP",
+                "synonyms": [
+                    "Cell Division"
+                ]
+            },
+            {
+                "value": "ZacQ",
+                "synonyms": [
+                    "Stretching Strikes"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Unstable Matter"
+                ],
+                "value": "ZacW"
+            },
+            {
+                "value": "ZacE",
+                "synonyms": [
+                    "Elastic Slingshot"
+                ]
+            },
+            {
+                "value": "ZacR",
+                "synonyms": [
+                    "Let's Bounce!"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Way of the Wanderer"
+                ],
+                "value": "YasuoP"
+            },
+            {
+                "value": "YasuoQ",
+                "synonyms": [
+                    "Steel Tempest"
+                ]
+            },
+            {
+                "value": "YasuoW",
+                "synonyms": [
+                    "Wind Wall"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Sweeping Blade"
+                ],
+                "value": "YasuoE"
+            },
+            {
+                "value": "YasuoR",
+                "synonyms": [
+                    "Last Breath"
+                ]
+            },
+            {
+                "value": "SorakaP",
+                "synonyms": [
+                    "Salvation"
+                ]
+            },
+            {
+                "value": "SorakaQ",
+                "synonyms": [
+                    "Starcall"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Astral Infusion"
+                ],
+                "value": "SorakaW"
+            },
+            {
+                "synonyms": [
+                    "Equinox"
+                ],
+                "value": "SorakaE"
+            },
+            {
+                "synonyms": [
+                    "Wish"
+                ],
+                "value": "SorakaR"
+            },
+            {
+                "value": "VelkozP",
+                "synonyms": [
+                    "Organic Deconstruction"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Plasma Fission"
+                ],
+                "value": "VelkozQ"
+            },
+            {
+                "synonyms": [
+                    "Void Rift"
+                ],
+                "value": "VelkozW"
+            },
+            {
+                "synonyms": [
+                    "Tectonic Disruption"
+                ],
+                "value": "VelkozE"
+            },
+            {
+                "synonyms": [
+                    "Life Form Disintegration Ray"
+                ],
+                "value": "VelkozR"
+            },
+            {
+                "value": "TaliyahP",
+                "synonyms": [
+                    "Rock Surfing"
+                ]
+            },
+            {
+                "value": "TaliyahQ",
+                "synonyms": [
+                    "Threaded Volley"
+                ]
+            },
+            {
+                "value": "TaliyahW",
+                "synonyms": [
+                    "Seismic Shove"
+                ]
+            },
+            {
+                "value": "TaliyahE",
+                "synonyms": [
+                    "Unraveled Earth"
+                ]
+            },
+            {
+                "value": "TaliyahR",
+                "synonyms": [
+                    "Weaver's Wall"
+                ]
+            },
+            {
+                "value": "CamilleP",
+                "synonyms": [
+                    "Adaptive Defenses"
+                ]
+            },
+            {
+                "value": "CamilleQ",
+                "synonyms": [
+                    "Precision Protocol"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Tactical Sweep"
+                ],
+                "value": "CamilleW"
+            },
+            {
+                "synonyms": [
+                    "Hookshot"
+                ],
+                "value": "CamilleE"
+            },
+            {
+                "value": "CamilleR",
+                "synonyms": [
+                    "The Hextech Ultimatum"
+                ]
+            },
+            {
+                "value": "TeemoP",
+                "synonyms": [
+                    "Guerrilla Warfare"
+                ]
+            },
+            {
+                "value": "TeemoQ",
+                "synonyms": [
+                    "Blinding Dart"
+                ]
+            },
+            {
+                "value": "TeemoW",
+                "synonyms": [
+                    "Move Quick"
+                ]
+            },
+            {
+                "value": "TeemoE",
+                "synonyms": [
+                    "Toxic Shot"
+                ]
+            },
+            {
+                "value": "TeemoR",
+                "synonyms": [
+                    "Noxious Trap"
+                ]
+            },
+            {
+                "value": "TristanaP",
+                "synonyms": [
+                    "Draw a Bead"
+                ]
+            },
+            {
+                "value": "TristanaQ",
+                "synonyms": [
+                    "Rapid Fire"
+                ]
+            },
+            {
+                "value": "TristanaW",
+                "synonyms": [
+                    "Rocket Jump"
+                ]
+            },
+            {
+                "value": "TristanaE",
+                "synonyms": [
+                    "Explosive Charge"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Buster Shot"
+                ],
+                "value": "TristanaR"
+            },
+            {
+                "value": "WarwickP",
+                "synonyms": [
+                    "Eternal Hunger"
+                ]
+            },
+            {
+                "value": "WarwickQ",
+                "synonyms": [
+                    "Jaws of the Beast"
+                ]
+            },
+            {
+                "value": "WarwickW",
+                "synonyms": [
+                    "Blood Hunt"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Primal Howl"
+                ],
+                "value": "WarwickE"
+            },
+            {
+                "value": "WarwickR",
+                "synonyms": [
+                    "Infinite Duress"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Berserker Rage"
+                ],
+                "value": "OlafP"
+            },
+            {
+                "synonyms": [
+                    "Undertow"
+                ],
+                "value": "OlafQ"
+            },
+            {
+                "value": "OlafW",
+                "synonyms": [
+                    "Vicious Strikes"
+                ]
+            },
+            {
+                "value": "OlafE",
+                "synonyms": [
+                    "Reckless Swing"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Ragnarok"
+                ],
+                "value": "OlafR"
+            },
+            {
+                "synonyms": [
+                    "Call of the Freljord"
+                ],
+                "value": "NunuP"
+            },
+            {
+                "value": "NunuQ",
+                "synonyms": [
+                    "Consume"
+                ]
+            },
+            {
+                "value": "NunuW",
+                "synonyms": [
+                    "Biggest Snowball Ever!"
+                ]
+            },
+            {
+                "value": "NunuE",
+                "synonyms": [
+                    "Snowball Barrage"
+                ]
+            },
+            {
+                "value": "NunuR",
+                "synonyms": [
+                    "Absolute Zero"
+                ]
+            },
+            {
+                "value": "BraumP",
+                "synonyms": [
+                    "Concussive Blows"
+                ]
+            },
+            {
+                "value": "BraumQ",
+                "synonyms": [
+                    "Winter's Bite"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Stand Behind Me"
+                ],
+                "value": "BraumW"
+            },
+            {
+                "synonyms": [
+                    "Unbreakable"
+                ],
+                "value": "BraumE"
+            },
+            {
+                "value": "BraumR",
+                "synonyms": [
+                    "Glacial Fissure"
+                ]
+            },
+            {
+                "value": "JhinP",
+                "synonyms": [
+                    "Whisper"
+                ]
+            },
+            {
+                "value": "JhinQ",
+                "synonyms": [
+                    "Dancing Grenade"
+                ]
+            },
+            {
+                "value": "JhinW",
+                "synonyms": [
+                    "Deadly Flourish"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Captive Audience"
+                ],
+                "value": "JhinE"
+            },
+            {
+                "value": "JhinR",
+                "synonyms": [
+                    "Curtain Call"
+                ]
+            },
+            {
+                "value": "KindredP",
+                "synonyms": [
+                    "Mark of the Kindred"
+                ]
+            },
+            {
+                "value": "KindredQ",
+                "synonyms": [
+                    "Dance of Arrows"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Wolf's Frenzy"
+                ],
+                "value": "KindredW"
+            },
+            {
+                "value": "KindredE",
+                "synonyms": [
+                    "Mounting Dread"
+                ]
+            },
+            {
+                "value": "KindredR",
+                "synonyms": [
+                    "Lamb's Respite"
+                ]
+            },
+            {
+                "value": "MissFortuneP",
+                "synonyms": [
+                    "Love Tap"
+                ]
+            },
+            {
+                "value": "MissFortuneQ",
+                "synonyms": [
+                    "Double Up"
+                ]
+            },
+            {
+                "value": "MissFortuneW",
+                "synonyms": [
+                    "Strut"
+                ]
+            },
+            {
+                "value": "MissFortuneE",
+                "synonyms": [
+                    "Make It Rain"
+                ]
+            },
+            {
+                "value": "MissFortuneR",
+                "synonyms": [
+                    "Bullet Time"
+                ]
+            },
+            {
+                "value": "AsheP",
+                "synonyms": [
+                    "Frost Shot"
+                ]
+            },
+            {
+                "value": "AsheQ",
+                "synonyms": [
+                    "Ranger's Focus"
+                ]
+            },
+            {
+                "value": "AsheW",
+                "synonyms": [
+                    "Volley"
+                ]
+            },
+            {
+                "value": "AsheE",
+                "synonyms": [
+                    "Hawkshot"
+                ]
+            },
+            {
+                "value": "AsheR",
+                "synonyms": [
+                    "Enchanted Crystal Arrow"
+                ]
+            },
+            {
+                "value": "JinxP",
+                "synonyms": [
+                    "Get Excited!"
+                ]
+            },
+            {
+                "value": "JinxQ",
+                "synonyms": [
+                    "Switcheroo!"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Zap!"
+                ],
+                "value": "JinxW"
+            },
+            {
+                "value": "JinxE",
+                "synonyms": [
+                    "Flame Chompers!"
+                ]
+            },
+            {
+                "value": "JinxR",
+                "synonyms": [
+                    "Super Mega Death Rocket!"
+                ]
+            },
+            {
+                "value": "TahmKenchP",
+                "synonyms": [
+                    "An Acquired Taste"
+                ]
+            },
+            {
+                "value": "TahmKenchQ",
+                "synonyms": [
+                    "Tongue Lash"
+                ]
+            },
+            {
+                "value": "TahmKenchW",
+                "synonyms": [
+                    "Devour"
+                ]
+            },
+            {
+                "value": "TahmKenchE",
+                "synonyms": [
+                    "Thick Skin"
+                ]
+            },
+            {
+                "value": "TahmKenchR",
+                "synonyms": [
+                    "Abyssal Voyage"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Battle Fury"
+                ],
+                "value": "TryndamereP"
+            },
+            {
+                "value": "TryndamereQ",
+                "synonyms": [
+                    "Bloodlust"
+                ]
+            },
+            {
+                "value": "TryndamereW",
+                "synonyms": [
+                    "Mocking Shout"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Spinning Slash"
+                ],
+                "value": "TryndamereE"
+            },
+            {
+                "value": "TryndamereR",
+                "synonyms": [
+                    "Undying Rage"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Lightslinger"
+                ],
+                "value": "LucianP"
+            },
+            {
+                "value": "LucianQ",
+                "synonyms": [
+                    "Piercing Light"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Ardent Blaze"
+                ],
+                "value": "LucianW"
+            },
+            {
+                "value": "LucianE",
+                "synonyms": [
+                    "Relentless Pursuit"
+                ]
+            },
+            {
+                "synonyms": [
+                    "The Culling"
+                ],
+                "value": "LucianR"
+            },
+            {
+                "value": "ZedP",
+                "synonyms": [
+                    "Contempt for the Weak"
+                ]
+            },
+            {
+                "value": "ZedQ",
+                "synonyms": [
+                    "Razor Shuriken"
+                ]
+            },
+            {
+                "value": "ZedW",
+                "synonyms": [
+                    "Living Shadow"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Shadow Slash"
+                ],
+                "value": "ZedE"
+            },
+            {
+                "value": "ZedR",
+                "synonyms": [
+                    "Death Mark"
+                ]
+            },
+            {
+                "value": "JaxP",
+                "synonyms": [
+                    "Relentless Assault"
+                ]
+            },
+            {
+                "value": "JaxQ",
+                "synonyms": [
+                    "Leap Strike"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Empower"
+                ],
+                "value": "JaxW"
+            },
+            {
+                "value": "JaxE",
+                "synonyms": [
+                    "Counter Strike"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Grandmaster's Might"
+                ],
+                "value": "JaxR"
+            },
+            {
+                "value": "KledP",
+                "synonyms": [
+                    "Skaarl, the Cowardly Lizard"
+                ]
+            },
+            {
+                "value": "KledQ",
+                "synonyms": [
+                    "Bear Trap on a Rope"
+                ]
+            },
+            {
+                "value": "KledW",
+                "synonyms": [
+                    "Violent Tendencies"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Jousting"
+                ],
+                "value": "KledE"
+            },
+            {
+                "value": "KledR",
+                "synonyms": [
+                    "Chaaaaaaaarge!!!"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Z-Drive Resonance"
+                ],
+                "value": "EkkoP"
+            },
+            {
+                "value": "EkkoQ",
+                "synonyms": [
+                    "Timewinder"
+                ]
+            },
+            {
+                "value": "EkkoW",
+                "synonyms": [
+                    "Parallel Convergence"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Phase Dive"
+                ],
+                "value": "EkkoE"
+            },
+            {
+                "value": "EkkoR",
+                "synonyms": [
+                    "Chronobreak"
+                ]
+            },
+            {
+                "value": "MorganaP",
+                "synonyms": [
+                    "Soul Siphon"
+                ]
+            },
+            {
+                "value": "MorganaQ",
+                "synonyms": [
+                    "Dark Binding"
+                ]
+            },
+            {
+                "value": "MorganaW",
+                "synonyms": [
+                    "Tormented Soil"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Black Shield"
+                ],
+                "value": "MorganaE"
+            },
+            {
+                "value": "MorganaR",
+                "synonyms": [
+                    "Soul Shackles"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Blast Shield"
+                ],
+                "value": "ViP"
+            },
+            {
+                "value": "ViQ",
+                "synonyms": [
+                    "Vault Breaker"
+                ]
+            },
+            {
+                "value": "ViW",
+                "synonyms": [
+                    "Denting Blows"
+                ]
+            },
+            {
+                "value": "ViE",
+                "synonyms": [
+                    "Excessive Force"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Assault and Battery"
+                ],
+                "value": "ViR"
+            },
+            {
+                "value": "ZileanP",
+                "synonyms": [
+                    "Time in a Bottle"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Time Bomb"
+                ],
+                "value": "ZileanQ"
+            },
+            {
+                "value": "ZileanW",
+                "synonyms": [
+                    "Rewind"
+                ]
+            },
+            {
+                "value": "ZileanE",
+                "synonyms": [
+                    "Time Warp"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Chronoshift"
+                ],
+                "value": "ZileanR"
+            },
+            {
+                "synonyms": [
+                    "Deathbringer Stance"
+                ],
+                "value": "AatroxP"
+            },
+            {
+                "synonyms": [
+                    "The Darkin Blade"
+                ],
+                "value": "AatroxQ"
+            },
+            {
+                "value": "AatroxW",
+                "synonyms": [
+                    "Infernal Chains"
+                ]
+            },
+            {
+                "value": "AatroxE",
+                "synonyms": [
+                    "Umbral Dash"
+                ]
+            },
+            {
+                "synonyms": [
+                    "World Ender"
+                ],
+                "value": "AatroxR"
+            },
+            {
+                "value": "NamiP",
+                "synonyms": [
+                    "Surging Tides"
+                ]
+            },
+            {
+                "value": "NamiQ",
+                "synonyms": [
+                    "Aqua Prison"
+                ]
+            },
+            {
+                "value": "NamiW",
+                "synonyms": [
+                    "Ebb and Flow"
+                ]
+            },
+            {
+                "value": "NamiE",
+                "synonyms": [
+                    "Tidecaller's Blessing"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Tidal Wave"
+                ],
+                "value": "NamiR"
+            },
+            {
+                "value": "AzirP",
+                "synonyms": [
+                    "Shurima's Legacy"
+                ]
+            },
+            {
+                "value": "AzirQ",
+                "synonyms": [
+                    "Conquering Sands"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Arise!"
+                ],
+                "value": "AzirW"
+            },
+            {
+                "value": "AzirE",
+                "synonyms": [
+                    "Shifting Sands"
+                ]
+            },
+            {
+                "value": "AzirR",
+                "synonyms": [
+                    "Emperor's Divide"
+                ]
+            },
+            {
+                "value": "SingedP",
+                "synonyms": [
+                    "Noxious Slipstream"
+                ]
+            },
+            {
+                "value": "SingedQ",
+                "synonyms": [
+                    "Poison Trail"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Mega Adhesive"
+                ],
+                "value": "SingedW"
+            },
+            {
+                "value": "SingedE",
+                "synonyms": [
+                    "Fling"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Insanity Potion"
+                ],
+                "value": "SingedR"
+            },
+            {
+                "synonyms": [
+                    "Demon Shade"
+                ],
+                "value": "EvelynnP"
+            },
+            {
+                "value": "EvelynnQ",
+                "synonyms": [
+                    "Hate Spike"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Allure"
+                ],
+                "value": "EvelynnW"
+            },
+            {
+                "synonyms": [
+                    "Whiplash"
+                ],
+                "value": "EvelynnE"
+            },
+            {
+                "value": "EvelynnR",
+                "synonyms": [
+                    "Last Caress"
+                ]
+            },
+            {
+                "value": "TwitchP",
+                "synonyms": [
+                    "Deadly Venom"
+                ]
+            },
+            {
+                "value": "TwitchQ",
+                "synonyms": [
+                    "Ambush"
+                ]
+            },
+            {
+                "value": "TwitchW",
+                "synonyms": [
+                    "Venom Cask"
+                ]
+            },
+            {
+                "value": "TwitchE",
+                "synonyms": [
+                    "Contaminate"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Spray and Pray"
+                ],
+                "value": "TwitchR"
+            },
+            {
+                "synonyms": [
+                    "Colossal Smash"
+                ],
+                "value": "GalioP"
+            },
+            {
+                "value": "GalioQ",
+                "synonyms": [
+                    "Winds of War"
+                ]
+            },
+            {
+                "value": "GalioW",
+                "synonyms": [
+                    "Shield of Durand"
+                ]
+            },
+            {
+                "value": "GalioE",
+                "synonyms": [
+                    "Justice Punch"
+                ]
+            },
+            {
+                "value": "GalioR",
+                "synonyms": [
+                    "Hero's Entrance"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Death Defied"
+                ],
+                "value": "KarthusP"
+            },
+            {
+                "synonyms": [
+                    "Lay Waste"
+                ],
+                "value": "KarthusQ"
+            },
+            {
+                "value": "KarthusW",
+                "synonyms": [
+                    "Wall of Pain"
+                ]
+            },
+            {
+                "value": "KarthusE",
+                "synonyms": [
+                    "Defile"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Requiem"
+                ],
+                "value": "KarthusR"
+            },
+            {
+                "value": "ChogathP",
+                "synonyms": [
+                    "Carnivore"
+                ]
+            },
+            {
+                "value": "ChogathQ",
+                "synonyms": [
+                    "Rupture"
+                ]
+            },
+            {
+                "value": "ChogathW",
+                "synonyms": [
+                    "Feral Scream"
+                ]
+            },
+            {
+                "value": "ChogathE",
+                "synonyms": [
+                    "Vorpal Spikes"
+                ]
+            },
+            {
+                "value": "ChogathR",
+                "synonyms": [
+                    "Feast"
+                ]
+            },
+            {
+                "value": "AmumuP",
+                "synonyms": [
+                    "Cursed Touch"
+                ]
+            },
+            {
+                "value": "AmumuQ",
+                "synonyms": [
+                    "Bandage Toss"
+                ]
+            },
+            {
+                "value": "AmumuW",
+                "synonyms": [
+                    "Despair"
+                ]
+            },
+            {
+                "value": "AmumuE",
+                "synonyms": [
+                    "Tantrum"
+                ]
+            },
+            {
+                "value": "AmumuR",
+                "synonyms": [
+                    "Curse of the Sad Mummy"
+                ]
+            },
+            {
+                "value": "RammusP",
+                "synonyms": [
+                    "Spiked Shell"
+                ]
+            },
+            {
+                "value": "RammusQ",
+                "synonyms": [
+                    "Powerball"
+                ]
+            },
+            {
+                "value": "RammusW",
+                "synonyms": [
+                    "Defensive Ball Curl"
+                ]
+            },
+            {
+                "value": "RammusE",
+                "synonyms": [
+                    "Frenzying Taunt"
+                ]
+            },
+            {
+                "value": "RammusR",
+                "synonyms": [
+                    "Tremors"
+                ]
+            },
+            {
+                "value": "AniviaP",
+                "synonyms": [
+                    "Rebirth"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Flash Frost"
+                ],
+                "value": "AniviaQ"
+            },
+            {
+                "synonyms": [
+                    "Crystallize"
+                ],
+                "value": "AniviaW"
+            },
+            {
+                "value": "AniviaE",
+                "synonyms": [
+                    "Frostbite"
+                ]
+            },
+            {
+                "value": "AniviaR",
+                "synonyms": [
+                    "Glacial Storm"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Backstab"
+                ],
+                "value": "ShacoP"
+            },
+            {
+                "value": "ShacoQ",
+                "synonyms": [
+                    "Deceive"
+                ]
+            },
+            {
+                "value": "ShacoW",
+                "synonyms": [
+                    "Jack In The Box"
+                ]
+            },
+            {
+                "value": "ShacoE",
+                "synonyms": [
+                    "Two-Shiv Poison"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Hallucinate"
+                ],
+                "value": "ShacoR"
+            },
+            {
+                "value": "DrMundoP",
+                "synonyms": [
+                    "Adrenaline Rush"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Infected Cleaver"
+                ],
+                "value": "DrMundoQ"
+            },
+            {
+                "value": "DrMundoW",
+                "synonyms": [
+                    "Burning Agony"
+                ]
+            },
+            {
+                "value": "DrMundoE",
+                "synonyms": [
+                    "Masochism"
+                ]
+            },
+            {
+                "value": "DrMundoR",
+                "synonyms": [
+                    "Sadism"
+                ]
+            },
+            {
+                "value": "SonaP",
+                "synonyms": [
+                    "Power Chord"
+                ]
+            },
+            {
+                "value": "SonaQ",
+                "synonyms": [
+                    "Hymn of Valor"
+                ]
+            },
+            {
+                "value": "SonaW",
+                "synonyms": [
+                    "Aria of Perseverance"
+                ]
+            },
+            {
+                "value": "SonaE",
+                "synonyms": [
+                    "Song of Celerity"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Crescendo"
+                ],
+                "value": "SonaR"
+            },
+            {
+                "value": "KassadinP",
+                "synonyms": [
+                    "Void Stone"
+                ]
+            },
+            {
+                "value": "KassadinQ",
+                "synonyms": [
+                    "Null Sphere"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Nether Blade"
+                ],
+                "value": "KassadinW"
+            },
+            {
+                "value": "KassadinE",
+                "synonyms": [
+                    "Force Pulse"
+                ]
+            },
+            {
+                "value": "KassadinR",
+                "synonyms": [
+                    "Riftwalk"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Ionian Fervor"
+                ],
+                "value": "IreliaP"
+            },
+            {
+                "synonyms": [
+                    "Bladesurge"
+                ],
+                "value": "IreliaQ"
+            },
+            {
+                "synonyms": [
+                    "Defiant Dance"
+                ],
+                "value": "IreliaW"
+            },
+            {
+                "value": "IreliaE",
+                "synonyms": [
+                    "Flawless Duet"
+                ]
+            },
+            {
+                "value": "IreliaR",
+                "synonyms": [
+                    "Vanguard's Edge"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Loaded Dice"
+                ],
+                "value": "TwistedFateP"
+            },
+            {
+                "value": "TwistedFateQ",
+                "synonyms": [
+                    "Wild Cards"
+                ]
+            },
+            {
+                "value": "TwistedFateW",
+                "synonyms": [
+                    "Pick A Card"
+                ]
+            },
+            {
+                "value": "TwistedFateE",
+                "synonyms": [
+                    "Stacked Deck"
+                ]
+            },
+            {
+                "value": "TwistedFateR",
+                "synonyms": [
+                    "Destiny"
+                ]
+            },
+            {
+                "value": "JannaP",
+                "synonyms": [
+                    "Tailwind"
+                ]
+            },
+            {
+                "value": "JannaQ",
+                "synonyms": [
+                    "Howling Gale"
+                ]
+            },
+            {
+                "value": "JannaW",
+                "synonyms": [
+                    "Zephyr"
+                ]
+            },
+            {
+                "value": "JannaE",
+                "synonyms": [
+                    "Eye Of The Storm"
+                ]
+            },
+            {
+                "value": "JannaR",
+                "synonyms": [
+                    "Monsoon"
+                ]
+            },
+            {
+                "value": "GangplankP",
+                "synonyms": [
+                    "Trial by Fire"
+                ]
+            },
+            {
+                "value": "GangplankQ",
+                "synonyms": [
+                    "Parrrley"
+                ]
+            },
+            {
+                "value": "GangplankW",
+                "synonyms": [
+                    "Remove Scurvy"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Powder Keg"
+                ],
+                "value": "GangplankE"
+            },
+            {
+                "value": "GangplankR",
+                "synonyms": [
+                    "Cannon Barrage"
+                ]
+            },
+            {
+                "value": "ThreshP",
+                "synonyms": [
+                    "Damnation"
+                ]
+            },
+            {
+                "value": "ThreshQ",
+                "synonyms": [
+                    "Death Sentence"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Dark Passage"
+                ],
+                "value": "ThreshW"
+            },
+            {
+                "value": "ThreshE",
+                "synonyms": [
+                    "Flay"
+                ]
+            },
+            {
+                "value": "ThreshR",
+                "synonyms": [
+                    "The Box"
+                ]
+            },
+            {
+                "value": "CorkiP",
+                "synonyms": [
+                    "Hextech Munitions"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Phosphorus Bomb"
+                ],
+                "value": "CorkiQ"
+            },
+            {
+                "value": "CorkiW",
+                "synonyms": [
+                    "Valkyrie"
+                ]
+            },
+            {
+                "value": "CorkiE",
+                "synonyms": [
+                    "Gatling Gun"
+                ]
+            },
+            {
+                "value": "CorkiR",
+                "synonyms": [
+                    "Missile Barrage"
+                ]
+            },
+            {
+                "value": "IllaoiP",
+                "synonyms": [
+                    "Prophet of an Elder God"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Tentacle Smash"
+                ],
+                "value": "IllaoiQ"
+            },
+            {
+                "value": "IllaoiW",
+                "synonyms": [
+                    "Harsh Lesson"
+                ]
+            },
+            {
+                "value": "IllaoiE",
+                "synonyms": [
+                    "Test of Spirit"
+                ]
+            },
+            {
+                "value": "IllaoiR",
+                "synonyms": [
+                    "Leap of Faith"
+                ]
+            },
+            {
+                "value": "RekSaiP",
+                "synonyms": [
+                    "Fury of the Xer'Sai"
+                ]
+            },
+            {
+                "value": "RekSaiQ",
+                "synonyms": [
+                    "Queen's Wrath / Prey Seeker"
+                ]
+            },
+            {
+                "value": "RekSaiW",
+                "synonyms": [
+                    "Burrow / Un-burrow"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Furious Bite / Tunnel"
+                ],
+                "value": "RekSaiE"
+            },
+            {
+                "value": "RekSaiR",
+                "synonyms": [
+                    "Void Rush"
+                ]
+            },
+            {
+                "value": "IvernP",
+                "synonyms": [
+                    "Friend of the Forest"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Rootcaller"
+                ],
+                "value": "IvernQ"
+            },
+            {
+                "synonyms": [
+                    "Brushmaker"
+                ],
+                "value": "IvernW"
+            },
+            {
+                "value": "IvernE",
+                "synonyms": [
+                    "Triggerseed"
+                ]
+            },
+            {
+                "value": "IvernR",
+                "synonyms": [
+                    "Daisy!"
+                ]
+            },
+            {
+                "value": "KalistaP",
+                "synonyms": [
+                    "Martial Poise"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Pierce"
+                ],
+                "value": "KalistaQ"
+            },
+            {
+                "value": "KalistaW",
+                "synonyms": [
+                    "Sentinel"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Rend"
+                ],
+                "value": "KalistaE"
+            },
+            {
+                "value": "KalistaR",
+                "synonyms": [
+                    "Fate's Call"
+                ]
+            },
+            {
+                "value": "KarmaP",
+                "synonyms": [
+                    "Gathering Fire"
+                ]
+            },
+            {
+                "value": "KarmaQ",
+                "synonyms": [
+                    "Inner Flame"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Focused Resolve"
+                ],
+                "value": "KarmaW"
+            },
+            {
+                "value": "KarmaE",
+                "synonyms": [
+                    "Inspire"
+                ]
+            },
+            {
+                "value": "KarmaR",
+                "synonyms": [
+                    "Mantra"
+                ]
+            },
+            {
+                "value": "BardP",
+                "synonyms": [
+                    "Traveler's Call"
+                ]
+            },
+            {
+                "value": "BardQ",
+                "synonyms": [
+                    "Cosmic Binding"
+                ]
+            },
+            {
+                "value": "BardW",
+                "synonyms": [
+                    "Caretaker's Shrine"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Magical Journey"
+                ],
+                "value": "BardE"
+            },
+            {
+                "synonyms": [
+                    "Tempered Fate"
+                ],
+                "value": "BardR"
+            },
+            {
+                "value": "TaricP",
+                "synonyms": [
+                    "Bravado"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Starlight's Touch"
+                ],
+                "value": "TaricQ"
+            },
+            {
+                "value": "TaricW",
+                "synonyms": [
+                    "Bastion"
+                ]
+            },
+            {
+                "value": "TaricE",
+                "synonyms": [
+                    "Dazzle"
+                ]
+            },
+            {
+                "value": "TaricR",
+                "synonyms": [
+                    "Cosmic Radiance"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Phenomenal Evil Power"
+                ],
+                "value": "VeigarP"
+            },
+            {
+                "value": "VeigarQ",
+                "synonyms": [
+                    "Baleful Strike"
+                ]
+            },
+            {
+                "value": "VeigarW",
+                "synonyms": [
+                    "Dark Matter"
+                ]
+            },
+            {
+                "value": "VeigarE",
+                "synonyms": [
+                    "Event Horizon"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Primordial Burst"
+                ],
+                "value": "VeigarR"
+            },
+            {
+                "value": "TrundleP",
+                "synonyms": [
+                    "King's Tribute"
+                ]
+            },
+            {
+                "value": "TrundleQ",
+                "synonyms": [
+                    "Chomp"
+                ]
+            },
+            {
+                "value": "TrundleW",
+                "synonyms": [
+                    "Frozen Domain"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Pillar of Ice"
+                ],
+                "value": "TrundleE"
+            },
+            {
+                "synonyms": [
+                    "Subjugate"
+                ],
+                "value": "TrundleR"
+            },
+            {
+                "value": "RakanP",
+                "synonyms": [
+                    "Fey Feathers"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Gleaming Quill"
+                ],
+                "value": "RakanQ"
+            },
+            {
+                "value": "RakanW",
+                "synonyms": [
+                    "Grand Entrance"
+                ]
+            },
+            {
+                "value": "RakanE",
+                "synonyms": [
+                    "Battle Dance"
+                ]
+            },
+            {
+                "synonyms": [
+                    "The Quickness"
+                ],
+                "value": "RakanR"
+            },
+            {
+                "synonyms": [
+                    "Clean Cuts"
+                ],
+                "value": "XayahP"
+            },
+            {
+                "value": "XayahQ",
+                "synonyms": [
+                    "Double Daggers"
+                ]
+            },
+            {
+                "value": "XayahW",
+                "synonyms": [
+                    "Deadly Plumage"
+                ]
+            },
+            {
+                "value": "XayahE",
+                "synonyms": [
+                    "Bladecaller"
+                ]
+            },
+            {
+                "value": "XayahR",
+                "synonyms": [
+                    "Featherstorm"
+                ]
+            },
+            {
+                "value": "XinZhaoP",
+                "synonyms": [
+                    "Determination"
+                ]
+            },
+            {
+                "value": "XinZhaoQ",
+                "synonyms": [
+                    "Three Talon Strike"
+                ]
+            },
+            {
+                "value": "XinZhaoW",
+                "synonyms": [
+                    "Wind Becomes Lightning"
+                ]
+            },
+            {
+                "value": "XinZhaoE",
+                "synonyms": [
+                    "Audacious Charge"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Crescent Guard"
+                ],
+                "value": "XinZhaoR"
+            },
+            {
+                "value": "SwainP",
+                "synonyms": [
+                    "Ravenous Flock"
+                ]
+            },
+            {
+                "value": "SwainQ",
+                "synonyms": [
+                    "Death's Hand"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Vision of Empire"
+                ],
+                "value": "SwainW"
+            },
+            {
+                "value": "SwainE",
+                "synonyms": [
+                    "Nevermove"
+                ]
+            },
+            {
+                "value": "SwainR",
+                "synonyms": [
+                    "Demonic Ascension"
+                ]
+            },
+            {
+                "value": "CaitlynP",
+                "synonyms": [
+                    "Headshot"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Piltover Peacemaker"
+                ],
+                "value": "CaitlynQ"
+            },
+            {
+                "value": "CaitlynW",
+                "synonyms": [
+                    "Yordle Snap Trap"
+                ]
+            },
+            {
+                "synonyms": [
+                    "90 Caliber Net"
+                ],
+                "value": "CaitlynE"
+            },
+            {
+                "synonyms": [
+                    "Ace in the Hole"
+                ],
+                "value": "CaitlynR"
+            },
+            {
+                "value": "OrnnP",
+                "synonyms": [
+                    "Living Forge"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Volcanic Rupture"
+                ],
+                "value": "OrnnQ"
+            },
+            {
+                "value": "OrnnW",
+                "synonyms": [
+                    "Bellows Breath"
+                ]
+            },
+            {
+                "value": "OrnnE",
+                "synonyms": [
+                    "Searing Charge"
+                ]
+            },
+            {
+                "value": "OrnnR",
+                "synonyms": [
+                    "Call of the Forge God"
+                ]
+            },
+            {
+                "value": "SylasP",
+                "synonyms": [
+                    "Petricite Burst"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Chain Lash"
+                ],
+                "value": "SylasQ"
+            },
+            {
+                "synonyms": [
+                    "Kingslayer"
+                ],
+                "value": "SylasW"
+            },
+            {
+                "value": "SylasE",
+                "synonyms": [
+                    "Abscond / Abduct"
+                ]
+            },
+            {
+                "value": "SylasR",
+                "synonyms": [
+                    "Hijack"
+                ]
+            },
+            {
+                "value": "NeekoP",
+                "synonyms": [
+                    ""
+                ]
+            },
+            {
+                "value": "NeekoQ",
+                "synonyms": [
+                    "Blooming Burst"
+                ]
+            },
+            {
+                "value": "NeekoW",
+                "synonyms": [
+                    "Shapesplitter"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Tangle-Barbs"
+                ],
+                "value": "NeekoE"
+            },
+            {
+                "synonyms": [
+                    "Pop Blossom"
+                ],
+                "value": "NeekoR"
+            },
+            {
+                "value": "BlitzcrankP",
+                "synonyms": [
+                    "Mana Barrier"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Rocket Grab"
+                ],
+                "value": "BlitzcrankQ"
+            },
+            {
+                "synonyms": [
+                    "Overdrive"
+                ],
+                "value": "BlitzcrankW"
+            },
+            {
+                "value": "BlitzcrankE",
+                "synonyms": [
+                    "Power Fist"
+                ]
+            },
+            {
+                "value": "BlitzcrankR",
+                "synonyms": [
+                    "Static Field"
+                ]
+            },
+            {
+                "value": "MalphiteP",
+                "synonyms": [
+                    "Granite Shield"
+                ]
+            },
+            {
+                "value": "MalphiteQ",
+                "synonyms": [
+                    "Seismic Shard"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Brutal Strikes"
+                ],
+                "value": "MalphiteW"
+            },
+            {
+                "value": "MalphiteE",
+                "synonyms": [
+                    "Ground Slam"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Unstoppable Force"
+                ],
+                "value": "MalphiteR"
+            },
+            {
+                "value": "KatarinaP",
+                "synonyms": [
+                    "Voracity"
+                ]
+            },
+            {
+                "value": "KatarinaQ",
+                "synonyms": [
+                    "Bouncing Blade"
+                ]
+            },
+            {
+                "value": "KatarinaW",
+                "synonyms": [
+                    "Preparation"
+                ]
+            },
+            {
+                "value": "KatarinaE",
+                "synonyms": [
+                    "Shunpo"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Death Lotus"
+                ],
+                "value": "KatarinaR"
+            },
+            {
+                "value": "PykeP",
+                "synonyms": [
+                    "Gift of the Drowned Ones"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Bone Skewer"
+                ],
+                "value": "PykeQ"
+            },
+            {
+                "synonyms": [
+                    "Ghostwater Dive"
+                ],
+                "value": "PykeW"
+            },
+            {
+                "value": "PykeE",
+                "synonyms": [
+                    "Phantom Undertow"
+                ]
+            },
+            {
+                "value": "PykeR",
+                "synonyms": [
+                    "Death From Below"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Umbra Blades"
+                ],
+                "value": "NocturneP"
+            },
+            {
+                "value": "NocturneQ",
+                "synonyms": [
+                    "Duskbringer"
+                ]
+            },
+            {
+                "value": "NocturneW",
+                "synonyms": [
+                    "Shroud of Darkness"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Unspeakable Horror"
+                ],
+                "value": "NocturneE"
+            },
+            {
+                "value": "NocturneR",
+                "synonyms": [
+                    "Paranoia"
+                ]
+            },
+            {
+                "value": "MaokaiP",
+                "synonyms": [
+                    "Sap Magic"
+                ]
+            },
+            {
+                "value": "MaokaiQ",
+                "synonyms": [
+                    "Bramble Smash"
+                ]
+            },
+            {
+                "value": "MaokaiW",
+                "synonyms": [
+                    "Twisted Advance"
+                ]
+            },
+            {
+                "value": "MaokaiE",
+                "synonyms": [
+                    "Sapling Toss"
+                ]
+            },
+            {
+                "value": "MaokaiR",
+                "synonyms": [
+                    "Nature's Grasp"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Reign of Anger"
+                ],
+                "value": "RenektonP"
+            },
+            {
+                "value": "RenektonQ",
+                "synonyms": [
+                    "Cull the Meek"
+                ]
+            },
+            {
+                "value": "RenektonW",
+                "synonyms": [
+                    "Ruthless Predator"
+                ]
+            },
+            {
+                "value": "RenektonE",
+                "synonyms": [
+                    "Slice and Dice"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Dominus"
+                ],
+                "value": "RenektonR"
+            },
+            {
+                "value": "JarvanIVP",
+                "synonyms": [
+                    "Martial Cadence"
+                ]
+            },
+            {
+                "value": "JarvanIVQ",
+                "synonyms": [
+                    "Dragon Strike"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Golden Aegis"
+                ],
+                "value": "JarvanIVW"
+            },
+            {
+                "synonyms": [
+                    "Demacian Standard"
+                ],
+                "value": "JarvanIVE"
+            },
+            {
+                "synonyms": [
+                    "Cataclysm"
+                ],
+                "value": "JarvanIVR"
+            },
+            {
+                "synonyms": [
+                    "Echoing Flames"
+                ],
+                "value": "UrgotP"
+            },
+            {
+                "value": "UrgotQ",
+                "synonyms": [
+                    "Corrosive Charge"
+                ]
+            },
+            {
+                "value": "UrgotW",
+                "synonyms": [
+                    "Purge"
+                ]
+            },
+            {
+                "value": "UrgotE",
+                "synonyms": [
+                    "Disdain"
+                ]
+            },
+            {
+                "value": "UrgotR",
+                "synonyms": [
+                    "Fear Beyond Death"
+                ]
+            },
+            {
+                "value": "EliseP",
+                "synonyms": [
+                    "Spider Queen"
+                ]
+            },
+            {
+                "value": "EliseQ",
+                "synonyms": [
+                    "Neurotoxin / Venomous Bite"
+                ]
+            },
+            {
+                "value": "EliseW",
+                "synonyms": [
+                    "Volatile Spiderling / Skittering Frenzy"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Cocoon / Rappel"
+                ],
+                "value": "EliseE"
+            },
+            {
+                "value": "EliseR",
+                "synonyms": [
+                    "Spider Form"
+                ]
+            },
+            {
+                "value": "OriannaP",
+                "synonyms": [
+                    "Clockwork Windup"
+                ]
+            },
+            {
+                "value": "OriannaQ",
+                "synonyms": [
+                    "Command: Attack"
+                ]
+            },
+            {
+                "value": "OriannaW",
+                "synonyms": [
+                    "Command: Dissonance"
+                ]
+            },
+            {
+                "value": "OriannaE",
+                "synonyms": [
+                    "Command: Protect"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Command: Shockwave"
+                ],
+                "value": "OriannaR"
+            },
+            {
+                "value": "MonkeyKingP",
+                "synonyms": [
+                    "Stone Skin"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Crushing Blow"
+                ],
+                "value": "MonkeyKingQ"
+            },
+            {
+                "value": "MonkeyKingW",
+                "synonyms": [
+                    "Decoy"
+                ]
+            },
+            {
+                "value": "MonkeyKingE",
+                "synonyms": [
+                    "Nimbus Strike"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Cyclone"
+                ],
+                "value": "MonkeyKingR"
+            },
+            {
+                "value": "BrandP",
+                "synonyms": [
+                    "Blaze"
+                ]
+            },
+            {
+                "value": "BrandQ",
+                "synonyms": [
+                    "Sear"
+                ]
+            },
+            {
+                "value": "BrandW",
+                "synonyms": [
+                    "Pillar of Flame"
+                ]
+            },
+            {
+                "value": "BrandE",
+                "synonyms": [
+                    "Conflagration"
+                ]
+            },
+            {
+                "value": "BrandR",
+                "synonyms": [
+                    "Pyroclasm"
+                ]
+            },
+            {
+                "value": "LeeSinP",
+                "synonyms": [
+                    "Flurry"
+                ]
+            },
+            {
+                "value": "LeeSinQ",
+                "synonyms": [
+                    "Sonic Wave / Resonating Strike"
+                ]
+            },
+            {
+                "value": "LeeSinW",
+                "synonyms": [
+                    "Safeguard / Iron Will"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Tempest / Cripple"
+                ],
+                "value": "LeeSinE"
+            },
+            {
+                "value": "LeeSinR",
+                "synonyms": [
+                    "Dragon's Rage"
+                ]
+            },
+            {
+                "value": "VayneP",
+                "synonyms": [
+                    "Night Hunter"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Tumble"
+                ],
+                "value": "VayneQ"
+            },
+            {
+                "synonyms": [
+                    "Silver Bolts"
+                ],
+                "value": "VayneW"
+            },
+            {
+                "value": "VayneE",
+                "synonyms": [
+                    "Condemn"
+                ]
+            },
+            {
+                "value": "VayneR",
+                "synonyms": [
+                    "Final Hour"
+                ]
+            },
+            {
+                "value": "RumbleP",
+                "synonyms": [
+                    "Junkyard Titan"
+                ]
+            },
+            {
+                "value": "RumbleQ",
+                "synonyms": [
+                    "Flamespitter"
+                ]
+            },
+            {
+                "value": "RumbleW",
+                "synonyms": [
+                    "Scrap Shield"
+                ]
+            },
+            {
+                "value": "RumbleE",
+                "synonyms": [
+                    "Electro Harpoon"
+                ]
+            },
+            {
+                "value": "RumbleR",
+                "synonyms": [
+                    "The Equalizer"
+                ]
+            },
+            {
+                "value": "CassiopeiaP",
+                "synonyms": [
+                    "Serpentine Grace"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Noxious Blast"
+                ],
+                "value": "CassiopeiaQ"
+            },
+            {
+                "value": "CassiopeiaW",
+                "synonyms": [
+                    "Miasma"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Twin Fang"
+                ],
+                "value": "CassiopeiaE"
+            },
+            {
+                "value": "CassiopeiaR",
+                "synonyms": [
+                    "Petrifying Gaze"
+                ]
+            },
+            {
+                "value": "LeblancP",
+                "synonyms": [
+                    "Mirror Image"
+                ]
+            },
+            {
+                "value": "LeblancQ",
+                "synonyms": [
+                    "Sigil of Malice"
+                ]
+            },
+            {
+                "value": "LeblancW",
+                "synonyms": [
+                    "Distortion"
+                ]
+            },
+            {
+                "value": "LeblancE",
+                "synonyms": [
+                    "Ethereal Chains"
+                ]
+            },
+            {
+                "value": "LeblancR",
+                "synonyms": [
+                    "Mimic"
+                ]
+            },
+            {
+                "value": "SkarnerP",
+                "synonyms": [
+                    "Crystal Spires"
+                ]
+            },
+            {
+                "value": "SkarnerQ",
+                "synonyms": [
+                    "Crystal Slash"
+                ]
+            },
+            {
+                "value": "SkarnerW",
+                "synonyms": [
+                    "Crystalline Exoskeleton"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Fracture"
+                ],
+                "value": "SkarnerE"
+            },
+            {
+                "value": "SkarnerR",
+                "synonyms": [
+                    "Impale"
+                ]
+            },
+            {
+                "value": "HeimerdingerP",
+                "synonyms": [
+                    "Hextech Affinity"
+                ]
+            },
+            {
+                "value": "HeimerdingerQ",
+                "synonyms": [
+                    "H-28 G Evolution Turret"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Hextech Micro-Rockets"
+                ],
+                "value": "HeimerdingerW"
+            },
+            {
+                "value": "HeimerdingerE",
+                "synonyms": [
+                    "CH-2 Electron Storm Grenade"
+                ]
+            },
+            {
+                "synonyms": [
+                    "UPGRADE!!!"
+                ],
+                "value": "HeimerdingerR"
+            },
+            {
+                "value": "NasusP",
+                "synonyms": [
+                    "Soul Eater"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Siphoning Strike"
+                ],
+                "value": "NasusQ"
+            },
+            {
+                "value": "NasusW",
+                "synonyms": [
+                    "Wither"
+                ]
+            },
+            {
+                "value": "NasusE",
+                "synonyms": [
+                    "Spirit Fire"
+                ]
+            },
+            {
+                "value": "NasusR",
+                "synonyms": [
+                    "Fury of the Sands"
+                ]
+            },
+            {
+                "value": "NidaleeP",
+                "synonyms": [
+                    "Prowl"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Javelin Toss / Takedown"
+                ],
+                "value": "NidaleeQ"
+            },
+            {
+                "synonyms": [
+                    "Bushwhack / Pounce"
+                ],
+                "value": "NidaleeW"
+            },
+            {
+                "synonyms": [
+                    "Primal Surge / Swipe"
+                ],
+                "value": "NidaleeE"
+            },
+            {
+                "value": "NidaleeR",
+                "synonyms": [
+                    "Aspect Of The Cougar"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Monkey's Agility"
+                ],
+                "value": "UdyrP"
+            },
+            {
+                "synonyms": [
+                    "Tiger Stance"
+                ],
+                "value": "UdyrQ"
+            },
+            {
+                "value": "UdyrW",
+                "synonyms": [
+                    "Turtle Stance"
+                ]
+            },
+            {
+                "value": "UdyrE",
+                "synonyms": [
+                    "Bear Stance"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Phoenix Stance"
+                ],
+                "value": "UdyrR"
+            },
+            {
+                "value": "PoppyP",
+                "synonyms": [
+                    "Iron Ambassador"
+                ]
+            },
+            {
+                "value": "PoppyQ",
+                "synonyms": [
+                    "Hammer Shock"
+                ]
+            },
+            {
+                "value": "PoppyW",
+                "synonyms": [
+                    "Steadfast Presence"
+                ]
+            },
+            {
+                "value": "PoppyE",
+                "synonyms": [
+                    "Heroic Charge"
+                ]
+            },
+            {
+                "value": "PoppyR",
+                "synonyms": [
+                    "Keeper's Verdict"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Happy Hour"
+                ],
+                "value": "GragasP"
+            },
+            {
+                "value": "GragasQ",
+                "synonyms": [
+                    "Barrel Roll"
+                ]
+            },
+            {
+                "value": "GragasW",
+                "synonyms": [
+                    "Drunken Rage"
+                ]
+            },
+            {
+                "value": "GragasE",
+                "synonyms": [
+                    "Body Slam"
+                ]
+            },
+            {
+                "value": "GragasR",
+                "synonyms": [
+                    "Explosive Cask"
+                ]
+            },
+            {
+                "value": "VladimirP",
+                "synonyms": [
+                    "Crimson Pact"
+                ]
+            },
+            {
+                "value": "VladimirQ",
+                "synonyms": [
+                    "Transfusion"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Sanguine Pool"
+                ],
+                "value": "VladimirW"
+            },
+            {
+                "value": "VladimirE",
+                "synonyms": [
+                    "Tides of Blood"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Hemoplague"
+                ],
+                "value": "VladimirR"
+            },
+            {
+                "synonyms": [
+                    "Aegis Protection"
+                ],
+                "value": "PantheonP"
+            },
+            {
+                "value": "PantheonQ",
+                "synonyms": [
+                    "Spear Shot"
+                ]
+            },
+            {
+                "value": "PantheonW",
+                "synonyms": [
+                    "Aegis of Zeonia"
+                ]
+            },
+            {
+                "value": "PantheonE",
+                "synonyms": [
+                    "Heartseeker Strike"
+                ]
+            },
+            {
+                "value": "PantheonR",
+                "synonyms": [
+                    "Grand Skyfall"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Rising Spell Force"
+                ],
+                "value": "EzrealP"
+            },
+            {
+                "value": "EzrealQ",
+                "synonyms": [
+                    "Mystic Shot"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Essence Flux"
+                ],
+                "value": "EzrealW"
+            },
+            {
+                "value": "EzrealE",
+                "synonyms": [
+                    "Arcane Shift"
+                ]
+            },
+            {
+                "value": "EzrealR",
+                "synonyms": [
+                    "Trueshot Barrage"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Iron Man"
+                ],
+                "value": "MordekaiserP"
+            },
+            {
+                "synonyms": [
+                    "Mace of Spades"
+                ],
+                "value": "MordekaiserQ"
+            },
+            {
+                "value": "MordekaiserW",
+                "synonyms": [
+                    "Harvesters of Sorrow"
+                ]
+            },
+            {
+                "value": "MordekaiserE",
+                "synonyms": [
+                    "Siphon of Destruction"
+                ]
+            },
+            {
+                "value": "MordekaiserR",
+                "synonyms": [
+                    "Children of the Grave"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Shepherd of Souls"
+                ],
+                "value": "YorickP"
+            },
+            {
+                "value": "YorickQ",
+                "synonyms": [
+                    "Last Rites"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Dark Procession"
+                ],
+                "value": "YorickW"
+            },
+            {
+                "synonyms": [
+                    "Mourning Mist"
+                ],
+                "value": "YorickE"
+            },
+            {
+                "value": "YorickR",
+                "synonyms": [
+                    "Eulogy of the Isles"
+                ]
+            },
+            {
+                "value": "AkaliP",
+                "synonyms": [
+                    "Assassin's Mark"
+                ]
+            },
+            {
+                "value": "AkaliQ",
+                "synonyms": [
+                    "Five Point Strike"
+                ]
+            },
+            {
+                "value": "AkaliW",
+                "synonyms": [
+                    "Twilight Shroud"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Shuriken Flip"
+                ],
+                "value": "AkaliE"
+            },
+            {
+                "synonyms": [
+                    "Perfect Execution"
+                ],
+                "value": "AkaliR"
+            },
+            {
+                "value": "KennenP",
+                "synonyms": [
+                    "Mark of the Storm"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Thundering Shuriken"
+                ],
+                "value": "KennenQ"
+            },
+            {
+                "value": "KennenW",
+                "synonyms": [
+                    "Electrical Surge"
+                ]
+            },
+            {
+                "value": "KennenE",
+                "synonyms": [
+                    "Lightning Rush"
+                ]
+            },
+            {
+                "value": "KennenR",
+                "synonyms": [
+                    "Slicing Maelstrom"
+                ]
+            },
+            {
+                "value": "GarenP",
+                "synonyms": [
+                    "Perseverance"
+                ]
+            },
+            {
+                "value": "GarenQ",
+                "synonyms": [
+                    "Decisive Strike"
+                ]
+            },
+            {
+                "value": "GarenW",
+                "synonyms": [
+                    "Courage"
+                ]
+            },
+            {
+                "value": "GarenE",
+                "synonyms": [
+                    "Judgment"
+                ]
+            },
+            {
+                "value": "GarenR",
+                "synonyms": [
+                    "Demacian Justice"
+                ]
+            },
+            {
+                "value": "LeonaP",
+                "synonyms": [
+                    "Sunlight"
+                ]
+            },
+            {
+                "value": "LeonaQ",
+                "synonyms": [
+                    "Shield of Daybreak"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Eclipse"
+                ],
+                "value": "LeonaW"
+            },
+            {
+                "value": "LeonaE",
+                "synonyms": [
+                    "Zenith Blade"
+                ]
+            },
+            {
+                "value": "LeonaR",
+                "synonyms": [
+                    "Solar Flare"
+                ]
+            },
+            {
+                "value": "FiddlesticksP",
+                "synonyms": [
+                    "Dread"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Terrify"
+                ],
+                "value": "FiddlesticksQ"
+            },
+            {
+                "synonyms": [
+                    "Drain"
+                ],
+                "value": "FiddlesticksW"
+            },
+            {
+                "value": "FiddlesticksE",
+                "synonyms": [
+                    "Dark Wind"
+                ]
+            },
+            {
+                "value": "FiddlesticksR",
+                "synonyms": [
+                    "Crowstorm"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Void Shift"
+                ],
+                "value": "MalzaharP"
+            },
+            {
+                "synonyms": [
+                    "Call of the Void"
+                ],
+                "value": "MalzaharQ"
+            },
+            {
+                "synonyms": [
+                    "Void Swarm"
+                ],
+                "value": "MalzaharW"
+            },
+            {
+                "value": "MalzaharE",
+                "synonyms": [
+                    "Malefic Visions"
+                ]
+            },
+            {
+                "value": "MalzaharR",
+                "synonyms": [
+                    "Nether Grasp"
+                ]
+            },
+            {
+                "value": "TalonP",
+                "synonyms": [
+                    "Blade's End"
+                ]
+            },
+            {
+                "value": "TalonQ",
+                "synonyms": [
+                    "Noxian Diplomacy"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Rake"
+                ],
+                "value": "TalonW"
+            },
+            {
+                "value": "TalonE",
+                "synonyms": [
+                    "Assassin's Path"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Shadow Assault"
+                ],
+                "value": "TalonR"
+            },
+            {
+                "synonyms": [
+                    "Runic Blade"
+                ],
+                "value": "RivenP"
+            },
+            {
+                "synonyms": [
+                    "Broken Wings"
+                ],
+                "value": "RivenQ"
+            },
+            {
+                "value": "RivenW",
+                "synonyms": [
+                    "Ki Burst"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Valor"
+                ],
+                "value": "RivenE"
+            },
+            {
+                "synonyms": [
+                    "Blade of the Exile"
+                ],
+                "value": "RivenR"
+            },
+            {
+                "value": "KogMawP",
+                "synonyms": [
+                    "Icathian Surprise"
+                ]
+            },
+            {
+                "value": "KogMawQ",
+                "synonyms": [
+                    "Caustic Spittle"
+                ]
+            },
+            {
+                "value": "KogMawW",
+                "synonyms": [
+                    "Bio-Arcane Barrage"
+                ]
+            },
+            {
+                "value": "KogMawE",
+                "synonyms": [
+                    "Void Ooze"
+                ]
+            },
+            {
+                "value": "KogMawR",
+                "synonyms": [
+                    "Living Artillery"
+                ]
+            },
+            {
+                "value": "ShenP",
+                "synonyms": [
+                    "Ki Barrier"
+                ]
+            },
+            {
+                "value": "ShenQ",
+                "synonyms": [
+                    "Twilight Assault"
+                ]
+            },
+            {
+                "value": "ShenW",
+                "synonyms": [
+                    "Spirit's Refuge"
+                ]
+            },
+            {
+                "value": "ShenE",
+                "synonyms": [
+                    "Shadow Dash"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Stand United"
+                ],
+                "value": "ShenR"
+            },
+            {
+                "value": "LuxP",
+                "synonyms": [
+                    "Illumination"
+                ]
+            },
+            {
+                "value": "LuxQ",
+                "synonyms": [
+                    "Light Binding"
+                ]
+            },
+            {
+                "value": "LuxW",
+                "synonyms": [
+                    "Prismatic Barrier"
+                ]
+            },
+            {
+                "value": "LuxE",
+                "synonyms": [
+                    "Lucent Singularity"
+                ]
+            },
+            {
+                "synonyms": [
+                    "Final Spark"
+                ],
+                "value": "LuxR"
+            }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

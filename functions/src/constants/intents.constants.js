@@ -1,0 +1,18 @@
+exports.intent = {
+    WELCOME: 'welcome',
+    EXIT: 'exit',
+    NO_INPUT: 'no-input',
+    FALLBACK: 'fallback',
+    START_SIGN_IN: 'start-sign-in',
+    GET_SIGN_IN: 'get-sign-in',
+    CHAMPION_INFORMATION: 'champion-information',
+    ABILITY_INFORMATION: 'ability-information',
+    CHAMPION_INFORMATION_SKIN: 'champion-information-skins',
+    CHAMPION_INFORMATION_ABILITY: 'champion-information-ability',
+    CHAMPION_INFORMATION_ABILITY_OPTION:'abilities-champion-OPTION',
+    FREE_CHAMPION_ROTATION: 'free-champions-rotation',
+    FREE_ROTATION_SETUP_PUSH: 'free-rotation-setup-push', 
+    FINISH_FREE_ROTATION_SETUP_PUSH: 'finish-free-rotation-setup-push',
+    FREE_CHAMPION_ROTATION_OPTION: 'free-champions-rotation-OPTION',
+    MASTERY_TOTAL_SCORE: 'mastery-total-score',
+}
